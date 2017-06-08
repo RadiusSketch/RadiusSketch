@@ -7,8 +7,12 @@ F-ParSketch works with [Apache Spark](http://spark.apache.org/). In order to run
 	
  Building
 ------------
+
 The code is written in Java and We use maven to build it, Use the given [pom.xml](https://github.com/djamelinfo/F-ParSketch/blob/master/pom.xml) file to build an executable jar containing all the dependencies.
  Usage
+ 
+ 
+ 
 ------------
 
 	 for F-ParSketch use FParSketch class :
