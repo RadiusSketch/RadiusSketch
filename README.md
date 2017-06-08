@@ -3,12 +3,12 @@ Fully Parallel Sketches for Time Series Indexing in Massively Distributed Enviro
 
  Requirements 
 ------------
-F-ParSketch works with [Apache Spark](http://spark.apache.org/). In order to run F-ParSketch and ParSketch you must download and install [Apache Spark 1.6.2](http://spark.apache.org/news/spark-1-6-2-released.html)
+F-ParSketch works with [Apache Spark](http://spark.apache.org/). In order to run F-RadiusSketch and RadiusSketch you must download and install [Apache Spark 1.6.2](http://spark.apache.org/news/spark-1-6-2-released.html)
 	
  Building
 ------------
 
-The code is written in Java and We use maven to build it, Use the given [pom.xml](https://github.com/djamelinfo/F-ParSketch/blob/master/pom.xml) file to build an executable jar containing all the dependencies.
+The code is written in Java and We use maven to build it, Use the given [pom.xml](pom.xml) file to build an executable jar containing all the dependencies.
  Usage
  
  
@@ -23,6 +23,6 @@ The code is written in Java and We use maven to build it, Use the given [pom.xml
  
  
 
-You can use [Random Walk Time Series Generator](https://github.com/djamelinfo/RandomWalk-TimeSeriesGenerator-On-Spark) to produce a set of randomWalk datasets.
+
 
  
