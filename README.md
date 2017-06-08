@@ -1,9 +1,9 @@
-# F-ParSketch
+# F-RadiusSketch
 Fully Parallel Sketches for Time Series Indexing in Massively Distributed Environments.
 
  Requirements 
 ------------
-F-ParSketch works with [Apache Spark](http://spark.apache.org/). In order to run F-RadiusSketch and RadiusSketch you must download and install [Apache Spark 1.6.2](http://spark.apache.org/news/spark-1-6-2-released.html)
+F-RadiusSketch works with [Apache Spark](http://spark.apache.org/). In order to run F-RadiusSketch and RadiusSketch you must download and install [Apache Spark 1.6.2](http://spark.apache.org/news/spark-1-6-2-released.html)
 	
  Building
 ------------
